@@ -23,18 +23,18 @@ Backend: https://github.com/darbyluv2code/fullstack-angular-and-springboot/blob/
   server.port=9898
 
   In Angular: 
-  
+
   Run `npm start -- --configuration=qa`
 
 
 ## Result
 
-![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Home%20page.jpg)
+![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Home%20page.jpg)
 
-![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Item.jpg)
+![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Item.jpg)
 
-![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Cart-details.jpg)
+![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Cart-details.jpg)
 
-![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Checkout.jpg)
+![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Checkout.jpg)
 
-![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Order-history.jpg)
+![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Order-history.jpg)
