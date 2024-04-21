@@ -38,3 +38,11 @@ Backend: https://github.com/darbyluv2code/fullstack-angular-and-springboot/blob/
 ![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Checkout.jpg)
 
 ![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Order-history.jpg)
+
+- Database
+
+![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Order.jpg)
+
+![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Order-Item.jpg)
+
+![image](https://github.com/YPChao1009/Full-Stack-Angular-and-Java-Spring-Boot-E-Commerce-Website/blob/main/Image/Customer.jpg)
